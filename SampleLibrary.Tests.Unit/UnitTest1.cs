@@ -8,7 +8,8 @@ namespace SampleLibrary.Tests.Unit
         [Fact]
         public void Test1()
         {
-
+            var testObject = new Class1();
+            testObject.SampleMethod();
         }
     }
 }
