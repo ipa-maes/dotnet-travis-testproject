@@ -1,8 +1,9 @@
 language: csharp
-mono: none
+mono: latest
 dotnet: 2.1.502
 
 script:
  - dotnet restore
  - dotnet build
  - dotnet test
+ - mono tools/csmacnz.Coveralls.exe
