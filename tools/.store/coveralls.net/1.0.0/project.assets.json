@@ -54,16 +54,16 @@
     ]
   },
   "packageFolders": {
-    "C:\\Dev\\Common\\dotnet-travis-testproject\\tools\\.store\\.stage\\zjnb0aj4.xpu": {}
+    "C:\\Dev\\Common\\dotnet-travis-testproject\\tools\\.store\\.stage\\nsiekfe2.a0r": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maes\\AppData\\Local\\Temp\\dz5gbupb.wmy\\restore.csproj",
+      "projectUniqueName": "C:\\Users\\maes\\AppData\\Local\\Temp\\jmdkswrg.2th\\restore.csproj",
       "projectName": "restore",
-      "projectPath": "C:\\Users\\maes\\AppData\\Local\\Temp\\dz5gbupb.wmy\\restore.csproj",
-      "packagesPath": "C:\\Dev\\Common\\dotnet-travis-testproject\\tools\\.store\\.stage\\zjnb0aj4.xpu",
-      "outputPath": "C:\\Dev\\Common\\dotnet-travis-testproject\\tools\\.store\\.stage\\zjnb0aj4.xpu\\",
+      "projectPath": "C:\\Users\\maes\\AppData\\Local\\Temp\\jmdkswrg.2th\\restore.csproj",
+      "packagesPath": "C:\\Dev\\Common\\dotnet-travis-testproject\\tools\\.store\\.stage\\nsiekfe2.a0r",
+      "outputPath": "C:\\Dev\\Common\\dotnet-travis-testproject\\tools\\.store\\.stage\\nsiekfe2.a0r\\",
       "projectStyle": "DotnetToolReference",
       "configFilePaths": [
         "C:\\Users\\maes\\AppData\\Roaming\\NuGet\\NuGet.Config",

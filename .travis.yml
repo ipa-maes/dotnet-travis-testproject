@@ -6,4 +6,4 @@ script:
  - dotnet restore
  - dotnet build
  - dotnet test
- - mono tools/csmacnz.Coveralls.exe
+ - .\tools\csmacnz.Coveralls
