@@ -6,4 +6,4 @@ script:
  - dotnet restore
  - dotnet build
  - dotnet test
- - ./tools/csmacnz.Coveralls
+ - tools/csmacnz.Coveralls --help
