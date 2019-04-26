@@ -6,4 +6,5 @@ script:
  - dotnet restore
  - dotnet build
  - dotnet test
- - tools/csmacnz.Coveralls --help
+ - dotnet tool install -g coveralls.net --version 1.0.0
+ - csmacnz.Coveralls --help
